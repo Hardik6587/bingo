@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hardik6587/bingo/static/css/main.f70f75d6.chunk.css",
+    "main.js": "/Hardik6587/bingo/static/js/main.88295638.chunk.js",
+    "main.js.map": "/Hardik6587/bingo/static/js/main.88295638.chunk.js.map",
+    "runtime-main.js": "/Hardik6587/bingo/static/js/runtime-main.ac621731.js",
+    "runtime-main.js.map": "/Hardik6587/bingo/static/js/runtime-main.ac621731.js.map",
+    "static/js/2.c68a41f2.chunk.js": "/Hardik6587/bingo/static/js/2.c68a41f2.chunk.js",
+    "static/js/2.c68a41f2.chunk.js.map": "/Hardik6587/bingo/static/js/2.c68a41f2.chunk.js.map",
+    "static/js/3.4f3db8b1.chunk.js": "/Hardik6587/bingo/static/js/3.4f3db8b1.chunk.js",
+    "static/js/3.4f3db8b1.chunk.js.map": "/Hardik6587/bingo/static/js/3.4f3db8b1.chunk.js.map",
+    "index.html": "/Hardik6587/bingo/index.html",
+    "static/css/main.f70f75d6.chunk.css.map": "/Hardik6587/bingo/static/css/main.f70f75d6.chunk.css.map",
+    "static/js/2.c68a41f2.chunk.js.LICENSE.txt": "/Hardik6587/bingo/static/js/2.c68a41f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac621731.js",
+    "static/js/2.c68a41f2.chunk.js",
+    "static/css/main.f70f75d6.chunk.css",
+    "static/js/main.88295638.chunk.js"
+  ]
+}
