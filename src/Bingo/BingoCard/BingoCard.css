@@ -1,0 +1,56 @@
+/* CARD */
+.bingo-card {
+    width: calc(20% - 2px);
+    height: calc(20% - 2px);
+    cursor: pointer;
+    background-color: black;
+    margin: 1px;
+    z-index: 1;
+}
+
+.bingo-card:hover, .bingo-card-load {
+    background-color: rgb(152, 141, 243);
+    z-index: 999;
+    color: white;
+}
+
+.card-name:hover {
+    box-shadow: 1px 1px 5px 5px rgb(115 118 232);
+    z-index: 999;
+}
+
+.bingo-card .card-name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.bingo-card .bingo-selected, .bingo-card .bingo-done {
+    width: 100%;
+    height: 100%;
+}
+
+.bingo-done {
+    animation: flip 2s;
+}
+
+@keyframes flip {
+    25% {transform: rotate(180deg);}
+    50% {transform: rotate(-360deg);}
+    75% {transform: rotate(0deg);}
+    100% {transform: rotate(-360deg);}
+}
+
+
+.bingo-player {
+    position: relative;
+    top: -50%;
+    color: #32fb00;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
