@@ -6,13 +6,13 @@
 
 ## Game Play:
 - You will be given 5 seconds before the game starts. You can hover around cards and memorize the player names from set of 24 cards. Center card is already open.
-- Once Game starts, after each 3 seconds, once player name will be displayed (for few seconds) or announced once. You have to find the name in your Bingo Card and select it.
-- Once you missed the announced plyer name, you cannot ask for it. You missed it. Move along with other names. You have to memorize the name and find it in your card list.
+- Once game starts, after each 3 seconds, one player name will be displayed (for few seconds) or announced. You have to find the name in your Bingo Card and select it.
+- Once you missed the announced plyer name, you cannot ask for it. You missed it. Move along with other names. You have to memorize the name and find it in your card.
 - Once done with the game, you can reset the game with "reset" button to start with the new game.
 
 
 ## Next Version
-- On the screen, you will get the randon player names highlighted for 3 seconds, you have to find the player in the card and select it.
+- On the screen, you will get the random player names highlighted for 3 seconds, you have to find the player in the card and select it.
 - Current version - Once you select the card, and if the name is not corrrect, it gets selected. In next version, if drawn player name is same as selected card then it will be selected or else it will be flipped back to not selected.
 - This will test real memorizing skills.
 
