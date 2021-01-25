@@ -1,3 +1,16 @@
+# Bingo - 'Mind Game - Bingo'
+
+## Description:
+### This is a new flavour of Bingo with ability to test your memorizing names skills.
+
+## How to Play
+- It is a bingo game with a tweak where you have to hover over each card to see the name of the football player.
+### Game Play:
+- You will be given 5 seconds before the game starts. You can hover around cards and memorize the player names from set of 24 cards. Center card is already open.
+- Once Game starts, after each 3 seconds, once player name will be displayed (for few seconds) or announced once. You have to find the name in your Bingo Card and select it.
+- Once you missed the announced plyer name, you cannot ask for it. You missed it. Move along with other names. You have to memorize the name and find it in your card list.
+- Once done with the game, you can reset the game with "reset" button to start with the new game.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
